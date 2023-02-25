@@ -3,4 +3,4 @@ def print_funny_story():
 
 
 def print_childhood_story():
-    print("I ate chocolate")
+    print("I ate children")
