@@ -1,1 +1,6 @@
-benten
+def print_funny_story():
+    print("I slipped on a banana")
+
+
+def print_childhood_story():
+    print("I ate chocolate")
